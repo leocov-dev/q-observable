@@ -3,7 +3,7 @@
 Easily add multithreading to your Python Qt app or plugin with an easy to use 
 observable pattern.
 
-## Work In Progress
+## :construction: Work In Progress :construction:
 
 Basic functionality is working, more advanced features are in progress:
 
