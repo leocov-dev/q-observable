@@ -5,7 +5,6 @@
 *.vsix
 
 # Environments
-# Environments
 .env
 .venv
 .venv*
@@ -14,6 +13,9 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+
+# Python
+__pycache__
 
 # Managers
 .python-version
